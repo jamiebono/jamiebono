@@ -2,7 +2,7 @@
 
 **Data Infrastructure Consulting | Healthcare Systems | Former Paramedic**
 
-I help organizations make good decisions about their data systems—whether that means building custom infrastructure, implementing vendor solutions, or walking away from bad deals.
+I help organizations make good decisions about their data systems—whether that means building custom infrastructure, implementing vendor solutions, or walking away from bad deals and exploitation.
 
 [LinkedIn](https://www.linkedin.com/in/jamiebono/)
 
