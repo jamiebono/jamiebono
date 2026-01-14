@@ -20,9 +20,9 @@ Spent years seeing the same patients for the same problems because healthcare tr
 
 ## What I Do
 
-**[Resilient Data Solutions](https://resilient-data.com/)** – Data Infrastructure Consulting
+**[EmergenceTek Group Inc.](https://emergencetek.com/)** – Senior Data Engineer and Principal Consultant
 
-Strategic consulting focused on data & analytics strategy, vendor relations and due diligence, and implementation when vendor solutions are the right fit.
+Enterprise data platform assessments (Azure, Databricks, Fabric), SharePoint remediation for multi-TB environments, healthcare analytics including member attribution and cohort analysis, API integration and ETL architecture, agentic AI systems and context engineering for LLM implementations.
 
 **Technical Work:**
 - Azure • Databricks • Microsoft Fabric • Python • SQL • Power BI
@@ -31,12 +31,6 @@ Strategic consulting focused on data & analytics strategy, vendor relations and 
 - Social determinants of health measurement and implementation
 - AI strategy and context engineering for healthcare applications
 - Data sovereignty and infrastructure ownership for nonprofits
-
-## Current Projects
-
-**[EmergenceTek Group Inc.](https://emergencetek.com/)** – Senior Data Engineer and Principal Consultant
-
-Enterprise data platform assessments (Azure, Databricks, Fabric), SharePoint remediation for multi-TB healthcare environments, healthcare analytics including member attribution and cohort analysis, API integration and ETL architecture in Microsoft Fabric, agentic AI systems and local LLM implementations.
 
 *Previously: Chief Reporting Officer at Millennium Collaborative Care, homeland security research fellow, disaster planning for vulnerable populations*
 
