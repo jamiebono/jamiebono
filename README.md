@@ -10,7 +10,7 @@ I help organizations make good decisions about their data systems—whether that
 
 ## Background
 
-Started as a paramedic. Best training possible for data engineering—pattern recognition under incomplete information, understanding when systems are about to fail, and knowing the difference between "I don't know" and confident bullshit.
+Started as a paramedic, which is the best training possible for consulting: pattern recognition under incomplete information, understanding when systems are about to fail, and knowing the difference between "I don't know" and confident bullshit.
 
 Spent years seeing the same patients for the same problems because healthcare treats medical emergencies without addressing the housing instability, food insecurity, and transportation barriers that caused them. Graduate work in disaster planning and Medicaid redesign let me validate with data what I'd observed on the frontline: these patterns are systemic, not anecdotal.
 
