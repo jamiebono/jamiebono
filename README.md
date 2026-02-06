@@ -1,8 +1,8 @@
 # Jamie Bono
 
-**Data Infrastructure Consulting | Healthcare Systems | Former Paramedic**
+**Data Infrastructure & AI Consulting | Healthcare Systems | Former Paramedic**
 
-I help organizations make good decisions about their data systems—whether that means building custom infrastructure, implementing vendor solutions, or walking away from bad deals and exploitation.
+I help organizations make good decisions about their data systems, whether that means building custom infrastructure, implementing vendor solutions, or walking away from bad deals.
 
 [LinkedIn](https://www.linkedin.com/in/jamiebono/)
 
@@ -10,29 +10,27 @@ I help organizations make good decisions about their data systems—whether that
 
 ## Background
 
-Started as a paramedic, which is the best training possible for consulting: pattern recognition under incomplete information, understanding when systems are about to fail, and knowing the difference between "I don't know" and confident bullshit.
+I started as a paramedic, which turned out to be excellent preparation for consulting. Emergency medicine teaches you to recognize patterns with incomplete information, to know when a system is failing before anyone says so, and to be honest about what you don't know. Those skills transfer surprisingly well.
 
-Spent years seeing the same patients for the same problems because healthcare treats medical emergencies without addressing the housing instability, food insecurity, and transportation barriers that caused them. Graduate work in disaster planning and Medicaid redesign let me validate with data what I'd observed on the frontline: these patterns are systemic, not anecdotal.
+For years I saw the same patients coming back for the same problems, because healthcare treats the medical emergency without addressing the housing instability, food insecurity, and transportation barriers behind it. I went to graduate school to study disaster planning and Medicaid redesign, where I could validate with data what I'd been watching happen on every shift. The patterns were systemic, not anecdotal, and I wanted to work on the systems.
 
-**University at Buffalo** – Built NLP systems for clinical note extraction and genomics data pipelines. Learned the difference between AI that works in vendor demos and AI that works with messy 3am clinical documentation.
+At the University at Buffalo I studied biomedical informatics, which is where I got into the work I do now. I built NLP pipelines for clinical note extraction and genomics data processing, worked with ontologies and knowledge graphs for structuring biomedical data, and learned how information architecture determines whether a system actually works or just looks good in a demo. That's also where I developed a strong opinion about the difference between AI that performs well in controlled presentations and AI that has to deal with messy clinical documentation at three in the morning.
 
-**Consulting & Startup Experience** – Saw how most organizations get sold technology solutions for workflow problems. Watched venture capital extract value from nonprofits while calling it partnership. Left to focus on work that actually matters.
+After that I spent time in consulting and startups, where I saw a repeating pattern: organizations getting sold technology solutions for what were really workflow and information design problems. I watched venture capital extract value from nonprofits while calling it partnership. Eventually I decided to focus on work where I could be genuinely useful.
+
+---
 
 ## What I Do
 
-**[EmergenceTek Group Inc.](https://emergencetek.com/)** – Senior Data Engineer and Principal Consultant
+I'm a Senior Data Engineer and Principal Consultant at **[EmergenceTek Group Inc.](https://emergencetek.com/)** My work sits at the intersection of data infrastructure, information architecture, and applied AI.
 
-Enterprise data platform assessments (Azure, Databricks, Fabric), SharePoint remediation for multi-TB environments, healthcare analytics including member attribution and cohort analysis, API integration and ETL architecture, agentic AI systems and context engineering for LLM implementations.
+On the infrastructure side, I lead enterprise data platform assessments and build analytics systems on Azure, Databricks, and Microsoft Fabric. I do a lot of healthcare analytics, including member attribution, cohort analysis, and specialty pharmacy work. I handle SharePoint remediation for large multi-terabyte environments, API integration, and ETL pipeline design.
 
-**Technical Work:**
-- Azure • Databricks • Microsoft Fabric • Python • SQL • Power BI
-- Healthcare data systems (Medicaid, managed care, specialty pharmacy)
-- Biomedical informatics (genomics, NLP with EHR data)
-- Social determinants of health measurement and implementation
-- AI strategy and context engineering for healthcare applications
-- Data sovereignty and infrastructure ownership for nonprofits
+The part of my work I find most interesting right now is context engineering and agentic AI architecture, which pulls together most of what I've learned across my career. I design the information structures that make AI systems actually useful: ontologies and knowledge graphs that give agents something to reason over, information architectures that determine what gets retrieved and how, governance layers like Microsoft Purview that control what sensitive data AI can access and how it's classified. The underlying problem is always the same, whether you're building a data platform or an agentic workflow: if you don't get the information architecture right, nothing downstream works well. I build and run agentic systems regularly, so when I talk to clients about this work, I'm drawing on practical experience, not theory.
 
-*Previously: Chief Reporting Officer at Millennium Collaborative Care, homeland security research fellow, disaster planning for vulnerable populations*
+My technical stack includes Python, SQL, Azure, Databricks, Microsoft Fabric, Power BI, Microsoft Purview, Neo4j, and graph databases. My domain experience spans Medicaid and managed care, biomedical informatics, genomics, ontology design, knowledge graph architecture, social determinants of health measurement, and data sovereignty for nonprofits.
+
+Before EmergenceTek, I was Chief Reporting Officer at Millennium Collaborative Care, a homeland security research fellow, and worked in disaster planning for vulnerable populations. I currently serve on the Board of Directors for [CCNY, Inc.](https://www.ccnyinc.org/) in Buffalo, NY, a nonprofit that provides data analysis, program evaluation, and capacity-building services to health and human service organizations.
 
 ---
 
